@@ -5,7 +5,7 @@ Useful for, I don't know, disguising the fact that you're using discord? i don't
 
 ## setup and usage
 
-Pretty straightforward, just `cd` into the directory and run `npm install` (requires node) and edit config.json appropriately to include your bot's token and the ID of the channel you'd like to chat in
+Pretty straightforward, just `cd` into the directory, run `npm install` (requires node), and edit config.json appropriately to include your bot's token and the ID of the channel you'd like to chat in
 
 to run the bot, just input `node index.js`
 
